@@ -13,3 +13,5 @@ This cipher is made by horst feistel. This cipher is a type of block cipher that
               4. last step the swapping the right part became left and left become right.
 
 ![screenshot](screenshots/Feistel_cipher_diagram_en.png)
+
+This diagram from wikipedia summaries the whole functioning of the feistel cipher
