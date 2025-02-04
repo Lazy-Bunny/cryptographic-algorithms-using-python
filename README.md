@@ -7,7 +7,9 @@ The cipher is made by the Julius Caesar. this is an type of encryption method th
 
 2. FEISTEL CIPHER
 This cipher is made by horst feistel. This cipher is a type of block cipher that encrypt the data by dividing it in equal parts and encrypting all blocks seprately and after that joining it all together. The block is encrypted in this following steps:
-              * First the block is divided into two equal parts left and right part.
-              * right part first treated in a function by encryption key the key is round specific.
-              * then the output of the function is xored by the left part of the block.
-              * last step the swapping the right part became left and left become right.
+              1. First the block is divided into two equal parts left and right part.
+              2. right part first treated in a function by encryption key the key is round specific.
+              3. then the output of the function is xored by the left part of the block.
+              4. last step the swapping the right part became left and left become right.
+
+![screenshot](screenshots/Feistel_cipher_diagram_en.png)
