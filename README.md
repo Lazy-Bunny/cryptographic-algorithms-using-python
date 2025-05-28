@@ -3,8 +3,8 @@ This project gives you better understanding of cryptographic algorithms by imple
 cryptographic algorithms much more better by making it in python and also learn much more stuff.This only include the programs of below mentioned algorithms.
 
 ## Block Cipher Algorithms
-Caesar Cipher
-Feistel Cipher
+* Caesar Cipher
+* Feistel Cipher
 
 ## Stream Cipher Algorithms
-permutation cipher (rail fence)
+* permutation cipher (rail fence)
