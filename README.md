@@ -5,6 +5,7 @@ cryptographic algorithms much more better by making it in python and also learn 
 ## Block Cipher Algorithms
 * Caesar Cipher
 * Feistel Cipher
+* permutation cipher (rail fence)
 
 ## Stream Cipher Algorithms
-* permutation cipher (rail fence)
+
